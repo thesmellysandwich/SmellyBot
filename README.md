@@ -8,7 +8,7 @@ You will need the lastest stable version of python3 and pip3.
 You can choose to create a virtual environment or install the libraires directly to you local python3 directory.
 
 # Install  the required libraries with:
-pip3 install pyautogui
+pip3 install pyautogui\
 pip3 install stringcolor
 
 Once these libraries are installed open a terminal window and go to the main directory for smellybot.
