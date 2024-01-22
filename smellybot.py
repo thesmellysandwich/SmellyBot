@@ -40,7 +40,6 @@ print(cs('Enjoy you lazy asshole!', 'yellow'))
 time.sleep(10)
 print(cs('Program is running', 'red'))
 
-# bazooka position for bottom of desert... fire!!!!
 while True:
     # Fire RPG
     if second_point == 'n':
