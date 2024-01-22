@@ -22,4 +22,4 @@ Once you have the mouse positioned where you want in game you can alt + tab back
 - You will need to babysit the program a bit, in the event you are moved from position or killed. If killed when you revive you will need to reselect your RPG.
 - Make sure you have your RPG selected before running the program.
 
-  <span style="color:red">HAPPY CAMPING YOU LAZY ASSHOLE!</span>
+  <span style="color:blue">*HAPPY CAMPING YOU LAZY ASSHOLE!*</span>
